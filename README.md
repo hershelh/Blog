@@ -1,4 +1,4 @@
-**[antfu.me](https://antfu.me)**
+**[hershelh.life](https://hershelh.life)**
 
 my personal website, forked from [antfu.me](https://github.com/antfu/antfu.me).
 
