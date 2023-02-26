@@ -10,7 +10,7 @@ duration: 20min
 
 在理解软件测试的定义及作用之后，就要开始入门前端测试了，在这一部分我介绍了许多常用的自动化测试基础知识，比如断言、模拟，还介绍了单元测试框架 Jest 和最新的 Vitest 的基本使用并进行了较深入的比较。
 
-最后是前端测试的实战部分，我演示了如何测试一个地址列表小应用（GitHub 仓库在[这里](https://github.com/joeyhuang0235/addressList)），先介绍进行组件测试时要使用的组件挂载库 Vue Test Utils 和 Vue Testing Library，然后重点介绍了进行组件测试时的测试原则、测试技巧和一些注意事项。
+最后是前端测试的实战部分，我演示了如何测试一个地址列表小应用（GitHub 仓库在[这里](https://github.com/hershelh/addressList)），先介绍进行组件测试时要使用的组件挂载库 Vue Test Utils 和 Vue Testing Library，然后重点介绍了进行组件测试时的测试原则、测试技巧和一些注意事项。
 
 本文篇幅较长，全程高能，建议收藏慢慢观看。
 

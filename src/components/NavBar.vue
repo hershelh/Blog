@@ -17,7 +17,7 @@
           <span class="lt-md:hidden">Blog</span>
           <div i-ri-article-line md:hidden />
         </router-link>
-        <a href="https://github.com/joeyhuang0235" target="_blank" title="GitHub" class="lt-md:hidden">
+        <a href="https://github.com/hershelh" target="_blank" title="GitHub" class="lt-md:hidden">
           <div i-uil-github-alt />
         </a>
         <toggle-theme />

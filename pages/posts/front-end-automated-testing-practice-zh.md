@@ -7,7 +7,7 @@ duration: 1h
 ---
 
 在这篇文章中，我们来对一个地址列表小应用进行单元测试和组件测试。技术栈主要是 Vue3、Pinia 和 TypeScript。
-源代码仓库在[这里](https://github.com/joeyhuang0235/addressList)，我还提供了使用 Vuex 的分支，你可以拉下来边学习边对照。
+源代码仓库在[这里](https://github.com/hershelh/addressList)，我还提供了使用 Vuex 的分支，你可以拉下来边学习边对照。
 
 ### 准备工作
 
